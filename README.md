@@ -5,6 +5,8 @@ The handle prints as two halves that bolt together around the rack.
 
 Not affiliated with or endorsed by VelociRAX.
 
+![Handle installed on the rack](photos/handle_on_rack.jpg)
+
 ## Files
 
 | File | Description |
@@ -12,6 +14,8 @@ Not affiliated with or endorsed by VelociRAX.
 | `cad/rack_handle.f3d` | Fusion source design |
 | `stl/rack_handle_half_1.stl` | Handle half 1, with insert pockets (95 × 45 × 11 mm) |
 | `stl/rack_handle_half_2.stl` | Handle half 2, with screw counterbores (95 × 45 × 11 mm) |
+| `photos/` | Photos of the installed handle, plus background-removed cutouts |
+| `bambu/rack_handle_p2s_petg.3mf` | Bambu Studio project: both halves on one plate (P2S, PETG, 0.24 mm) |
 
 ## Hardware
 
@@ -20,7 +24,7 @@ Not affiliated with or endorsed by VelociRAX.
 
 ## Printing
 
-Printed in PETG with 0.24 mm layers and 4 walls. ASA also works. Avoid PLA:
+Printed in PETG with 0.24 mm layers, 4 walls, and 15% infill. ASA also works. Avoid PLA:
 the rack sits outside in the sun, where PLA can soften.
 
 Print both halves with the flat outer face on the bed. No supports needed.
